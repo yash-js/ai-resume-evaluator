@@ -1,0 +1,111 @@
+Job Title: Senior Full-Stack Engineer
+
+Experience Level: 2-5 Years
+Employment Type: Full-Time
+Location: Vadodara, Gujarat, India
+Shift Time: UK Shift (10-hour shift including a 1-hour break)
+
+About the Role:
+
+We are looking for a highly skilled Senior Full-Stack Engineer (Tech Lead) to lead the design, development, and evolution of a modern enterprise web platform.
+
+This is a hands-on technical leadership role responsible for driving architecture and technical decisions, mentoring engineers, establishing engineering standards, and delivering scalable, secure, and high-performance applications.
+
+The Senior Full-Stack Engineer (Tech Lead) will work closely with Product, Engineering, Design, and QA teams while providing technical leadership across backend services, frontend applications, platform architecture, and engineering practices.
+
+Requirements:
+
+Experience
+
+    2-5 years of professional software engineering experience.
+    Strong experience developing and maintaining production-grade web applications.
+    Proven experience working across both frontend and backend technologies.
+    Experience providing technical leadership, mentoring engineers, or owning technical modules.
+
+Programming
+
+    Strong proficiency in TypeScript and JavaScript.
+    Strong hands-on experience with Node.js.
+    Strong hands-on experience with React.
+    Solid understanding of HTML5 and CSS3.
+
+Backend
+
+    Strong experience with NestJS; Express.js or Fastify experience is also valuable.
+    Strong understanding of REST API design and development.
+    Experience with authentication and authorization.
+    Strong PostgreSQL and SQL knowledge.
+    Understanding of database design, relationships, indexing, transactions, and query optimization.
+    Experience with backend architecture, services, modules, validation, error handling, and middleware.
+
+Frontend
+
+    Strong experience with React and TypeScript.
+    Experience building reusable, component-driven applications.
+    Experience with state management and API integration.
+    Strong understanding of responsive web development.
+    Ability to build maintainable frontend architecture and user interfaces.
+
+Infrastructure and Engineering Tools
+
+    Experience with Docker.
+    Experience with Redis or similar caching/background-processing technologies.
+    Strong understanding of Git and collaborative development workflows.
+    Experience with CI/CD processes and deployment workflows.
+    Solid understanding of Linux-based development and production environments.
+
+Responsibilities:
+
+Technical Leadership
+
+    Lead architecture, system design, and technical design discussions.
+    Make informed technical decisions and communicate architectural trade-offs.
+    Define engineering standards, coding practices, and development guidelines.
+    Conduct code reviews and provide constructive technical feedback.
+    Mentor Junior and Mid-Level Engineers and support their technical growth.
+    Identify technical risks and recommend scalable and maintainable solutions.
+    Drive technical excellence across frontend and backend development.
+    Participate in sprint planning, technical reviews, and engineering discussions.
+
+Backend Development
+
+    Design, develop, and maintain scalable backend services using Node.js and NestJS.
+    Build secure, reliable, and well-structured REST APIs.
+    Design and optimize relational database schemas using PostgreSQL and SQL.
+    Implement authentication, authorization, permissions, and secure API communication.
+    Develop business logic and service-layer architecture following clean separation of concerns.
+    Optimize application performance, database queries, and backend workflows.
+    Implement background processing and asynchronous workflows where required.
+    Integrate third-party APIs and external services.
+    Troubleshoot complex backend and production issues.
+
+Frontend Development
+
+    Design and develop modern web applications using React and TypeScript.
+    Build reusable, scalable, and maintainable UI components.
+    Develop responsive interfaces that work across common browsers and screen sizes.
+    Integrate frontend applications with backend APIs.
+    Implement forms, dashboards, tables, filters, modals, workflows, and other product interfaces.
+    Manage application state using appropriate state-management patterns and tools.
+    Handle loading, error, empty, validation, and success states appropriately.
+    Work closely with Product and Design teams to deliver high-quality user experiences.
+
+Platform and Architecture
+
+    Design and improve scalable enterprise web application architecture.
+    Build secure authentication and authorization systems.
+    Contribute to multi-tenant application architecture and tenant-aware data handling.
+    Improve application reliability, scalability, performance, and maintainability.
+    Support monitoring, observability, logging, and production troubleshooting.
+    Contribute to CI/CD pipelines and deployment processes.
+    Apply security and engineering best practices across the application stack.
+    Support containerized application development using Docker.
+
+Collaboration and Mentorship
+
+    Partner closely with Product, Design, QA, DevOps, and Engineering teams.
+    Translate product requirements into technical designs and implementation plans.
+    Help teams identify technical dependencies, risks, and edge cases.
+    Mentor developers through code reviews, technical discussions, and hands-on guidance.
+    Promote knowledge sharing and continuous improvement within the engineering team.
+    Communicate technical concepts clearly to both technical and non-technical stakeholders.

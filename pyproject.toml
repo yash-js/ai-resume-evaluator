@@ -1,0 +1,28 @@
+[project]
+name = "resume-evaluator"
+version = "0.1.0"
+description = "Rank PDF and DOCX resumes against a job description with Groq"
+readme = "README.md"
+authors = [
+    { name = "YasH", email = "yashpurani8@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "groq>=1.7.0",
+    "pydantic>=2.14.1",
+    "pypdf>=6.20.1",
+    "python-docx>=1.2.0",
+    "python-dotenv>=1.2.4",
+]
+
+[project.scripts]
+resume-evaluator = "src:main"
+day5-resume-evaluator = "src:main"
+
+[build-system]
+requires = ["uv_build>=0.13.0,<0.14.0"]
+build-backend = "uv_build"
+
+[tool.uv.build-backend]
+module-name = "src"
+module-root = ""
